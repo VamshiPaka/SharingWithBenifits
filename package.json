@@ -1,0 +1,26 @@
+{
+  "name": "sharing_with_benifits",
+  "version": "1.0.0",
+  "description": "share your bill and share the offer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VamshiPaka/SharingWithBenifits.git"
+  },
+  "author": "vamshi, karthik, naren, sowjanya, tahaseef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VamshiPaka/SharingWithBenifits/issues"
+  },
+  "homepage": "https://github.com/VamshiPaka/SharingWithBenifits#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "nodemon": "^2.0.4"
+  }
+}
